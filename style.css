@@ -267,7 +267,7 @@ h3 {
   text-align: left;
 }
 
-.testimonials-col .fa {
+.testimonials-col i {
   color: #f44336;
 }
 
@@ -299,19 +299,20 @@ h3 {
 }
 
 .footer h4 {
-  margin-bottom: 2.5rem;
+  margin-bottom: 3rem;
   margin-top: 2rem;
   font-size: 1.6rem;
   font-weight: 700;
 }
 
-.icons .fa {
+.fa-brands {
   color: #f44336;
+  font-size: 1.5rem;
   margin: 0 1.3rem;
   cursor: pointer;
   padding: 1.8rem 0;
 }
 
-.fa-heart-o {
+.heart-outline {
   color: #f44336;
 }
